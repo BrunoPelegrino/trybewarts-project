@@ -1,5 +1,7 @@
 ## Trybewarts Project
 
+<img src="https://github.com/BrunoPelegrino/trybewarts-project/blob/master/Captura%20de%20tela%20de%202022-08-17%2019-10-38.png" alt="form page image">
+
 >Projeto simula uma página de formulário
 
 Uma vez com a aplicação iniciada em seu navegador, basta preencher o formulário!
